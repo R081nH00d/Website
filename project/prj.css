@@ -172,9 +172,9 @@ a{
 }
 
 .user{
-    width: 57px; 
-    height: 57px; 
-    left: 1200px; 
+    width: 90px; 
+    height: 67px; 
+    left: 1190px; 
     top: 25px; 
     position: absolute; 
     box-shadow: transparent;
@@ -410,7 +410,7 @@ a{
 .socials{
 
     position: absolute;
-    top: 4390px;
+    top: 6390px;
     width: 1513px;
     height: 480px;
     flex-shrink: 0;
@@ -436,7 +436,7 @@ a{
 .newsletter{
 
     position: absolute;
-    top: 3720px;
+    top: 5720px;
     left:50px;
     width: 1460px;
     height: 647px;
@@ -444,8 +444,8 @@ a{
 }
 
 .box{
-    width:1267px;
-    height:498px;
+    width:1256px;
+    height:500px;
     position: absolute;
     left:50px;
     /*
@@ -467,13 +467,13 @@ a{
     border-radius: 100px;
     background: linear-gradient(90deg, #EB00FF, #00FFF0);
    /* background-color: rgba(0, 0, 0, 0.5); /* Slight transparency for neon effect */
-    box-shadow: 0 0 20px rgb(235, 0, 255), 0 0 30px rgb(0, 255, 240); /* Glow effect */
+    box-shadow: 0 0 20px rgb(235, 0, 255), 0 0 15px rgb(0, 255, 240); /* Glow effect */
     padding: 3px;
 }
 
 .bo{
 
-    left: 64px;
+    left: 58px;
     background-color: #100425;
     border-radius: 88px;
     box-shadow: rgba(235, 0, 255, 0.25) 0px 60px 100px -25px inset, rgba(235, 0, 255, 0.3) 0px 40px 60px -30px, rgba(0, 255, 240, 0.35) 0px -5px 6px 0px inset;
@@ -497,7 +497,7 @@ a{
     border-image-source: linear-gradient(90deg, #EB00FF, #00FFF0); /* Neon border */
     border-radius: 100px;
     background: linear-gradient(90deg, #EB00FF, #00FFF0); 
-    box-shadow: 0 0 20px rgb(235, 0, 255), 0 0 30px rgb(0, 255, 240); /* Glow effect */
+    /*box-shadow: 0 0 20px rgb(235, 0, 255), 0 0 30px rgb(0, 255, 240); /* Glow effect */
     padding: 3px;
 }
 
@@ -508,6 +508,7 @@ a{
     box-shadow: rgba(235, 0, 255, 0.25) 0px 60px 100px -25px inset, rgba(235, 0, 255, 0.3) 0px 40px 60px -30px, rgba(0, 255, 240, 0.35) 0px -5px 6px 0px inset;
 }
 
+.imgbox2,
 .imgbox1{
 
     position: absolute;
